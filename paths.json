@@ -3,7 +3,7 @@
     "/content/eds-learning/:/"
   ],
   "includes": [
-    "/content/",
+    "/content/eds-learning",
     "/content/dam/",
     "/content/forms/"
   ]

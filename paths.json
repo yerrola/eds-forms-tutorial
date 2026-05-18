@@ -3,8 +3,6 @@
     "/content/eds-forms-tutorial/:/"
   ],
   "includes": [
-    "/content/eds-forms-tutorial/",
-    "/content/dam/",
-    "/content/forms/"
+    "/content/eds-forms-tutorial/"
   ]
 }

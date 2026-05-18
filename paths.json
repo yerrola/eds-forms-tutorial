@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/content/eds-learning/:/"
+    "/content/eds-forms-tutorial/:/"
   ],
   "includes": [
-    "/content/eds-learning",
+    "/content/eds-forms-tutorial/",
     "/content/dam/",
     "/content/forms/"
   ]

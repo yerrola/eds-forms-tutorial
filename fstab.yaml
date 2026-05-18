@@ -1,4 +1,5 @@
 mountpoints:
-  /: https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-tutorial/main
+  /:
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-tutorial/main"
     type: "markup"
     suffix: ".html"

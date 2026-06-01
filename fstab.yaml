@@ -6,4 +6,9 @@ mountpoints:
     suffix: ".html"
 =======
   /: https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-tutorial/main
+<<<<<<< HEAD
 >>>>>>> b9255f3 (Add mountpoints configuration to fstab.yaml)
+=======
+    type: "markup"
+    suffix: ".html"
+>>>>>>> b701f0d (Added additional parameters)

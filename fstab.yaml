@@ -1,7 +1,12 @@
 mountpoints:
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+=======
+  /:
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-tutorial/main"
+>>>>>>> 49bb569 (Refactor mountpoints structure in fstab.yaml)
     type: "markup"
     suffix: ".html"
 =======
